@@ -185,7 +185,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        Irsyadulibad\LaravelActivehelper\ActiveHelperServiceProvider::class,
         /*
          * Application Service Providers...
          */
